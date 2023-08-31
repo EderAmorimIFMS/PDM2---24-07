@@ -1,2 +1,6 @@
-# PDM2 24-07
-# PDM2 31-07
+# Lista da diciplina Programação para dispositivos moveis.
+
+ ### Tecnologias usuadas
+ - JavaScript
+ - Html
+
